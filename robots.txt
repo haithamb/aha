@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://haithamb.github.io/aha/sitemap.xml
