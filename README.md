@@ -11,9 +11,13 @@ Published 15 November 2026. Models: Qwen3.5-0.8B and 2B, thinking enabled.
 
 ## What this repository holds
 
-One file, `index.html` — the post itself, self-contained apart from its web
-fonts. No build step, no dependencies. Open it locally, or let GitHub Pages
-serve it.
+`index.html` — the post itself, self-contained apart from its web fonts. No
+build step, no dependencies. Open it locally, or let GitHub Pages serve it.
+
+`aha_before_after.mp4` and `aha_before_after.gif` — the clip at the head of the
+post: one GSM8K question answered twice, by the model as released and by the
+same checkpoint with 16,241 weights changed. The post carries its own copy
+inline, so these two are here only for reuse elsewhere.
 
 ## Credit
 
